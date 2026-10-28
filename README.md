@@ -9,4 +9,4 @@ What I'm working on:
 Building my programming foundation in Python, C, and C++
 Practising data structures and problem-solving
 Learning cybersecurity fundamentals
-Exploring how AI tools can speed up learning (Google Workspace with Gemini, OpenAI, Anthropic courses)
+Exploring AI tools 
